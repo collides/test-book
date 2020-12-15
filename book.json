@@ -1,0 +1,25 @@
+{
+  "plugins": [
+      "theme-hqbook"
+  ],
+  "pluginsConfig": {
+      "theme-hqbook":{
+          "favicon": "./favicon.ico",
+          "logo":"./logo.png",
+          "search-placeholder":"输入关键字搜索",
+    "copyButtons": true,
+    "copyLines": true,
+    "dragSplitter": true,
+          "hide-elements": [
+              ".summary .gitbook-link"
+          ],
+          "flexible-linkcard": {
+              "title": "flexible-linkcard",
+              "hrefUrl": "https://github.com/HaoqiangChen/gitbook-plugin-flexible-linkcard",
+              "target": "_blank",
+              "imgSrc": "./book/logo.png",
+              "imgClass": "rect"
+          }
+      }
+  }
+}
