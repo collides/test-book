@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [dp1-story](dp1-story.md)
+* [dp1-story](dp1-story/README.md)
+  * [Untitled](dp1-story/untitled.md)
 * [dp2](dp2.md)
 * [test1](test1/README.md)
   * [test-child](test1/test-child.md)
