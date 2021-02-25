@@ -1,4 +1,2 @@
-# Introduction
-
-dp book
+# Initial page
 
